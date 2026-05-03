@@ -1,4 +1,4 @@
-# Portal Scanner Configuration
+cp templates/portals.example.yml portals.yml# Portal Scanner Configuration
 # Used by /career-ops scan to discover new offers automatically.
 #
 # Strategy (3 levels):
